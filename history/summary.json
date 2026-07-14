@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
     "slug": "git-lab-sisdai-ui",
     "status": "down",
-    "uptime": "54.22%",
-    "uptimeDay": "54.22%",
-    "uptimeWeek": "54.22%",
-    "uptimeMonth": "54.22%",
-    "uptimeYear": "54.22%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 149,
     "timeDay": 149,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-07-14": 0
+      "2026-07-14": 194
     }
   },
   {
