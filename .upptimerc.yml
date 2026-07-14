@@ -1,22 +1,23 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: sisdai-org
+repo: monitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: GitLab sisdai-ui
+    url: https://gitlab.com/sisdai-org/sisdai-ui
+  - name: GitLab sisdai-css
+    url: https://gitlab.com/sisdai-org/sisdai-css
+  - name: GitLab sisdai-componentes
+    url: https://gitlab.com/sisdai-org/sisdai-componentes
+  - name: GitLab sisdai-graficas
+    url: https://gitlab.com/sisdai-org/sisdai-graficas
+  - name: GitLab sisdai-mapas
+    url: https://gitlab.com/sisdai-org/sisdai-mapas
+asignees:
+  - paupradel
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
